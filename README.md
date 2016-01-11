@@ -1,2 +1,1 @@
-# helloworld
-hello world
+Cloud code project for HelloWorld. Cloud Code Guide: https://cn.avoscloud.com/docs/cloud_code_guide.html
